@@ -16,9 +16,12 @@ author: Claudia Hebert
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-    - Getting Started: "getstarted"
+    - name: "Beautiful Jekyll"
+      url: "https://beautifuljekyll.com"
+    - name: "Learn markdown"
+      url: "https://www.markdowntutorial.com/"
+    - name: "Getting Started"
+      url: "getstarted"
   Author's home: ""
 
 # --- Logo --- #
