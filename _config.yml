@@ -12,6 +12,7 @@ title: Github Website Learning
 author: Claudia Hebert
 
 # --- List of links in the navigation bar --- #
+
 navbar-links:
   About Me: "aboutme"
   Resources:
@@ -19,7 +20,6 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted"
   Author's home: ""
-
 
 # --- Logo --- #
 
