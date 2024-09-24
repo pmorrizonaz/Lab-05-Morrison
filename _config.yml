@@ -105,12 +105,12 @@ navbar-col: "#8BB174" # olivine
 navbar-text-col: "#E2B6BC" # tea rose 
 navbar-border-col: "#B4436C" #raspberry rose 
 page-col: "#E2B6BC" # tea rose 
-text-col: "212738" # raisin black
-link-col: "037171"# caribbean current 
+text-col: "#212738" # raisin black
+link-col: "#037171" # caribbean current 
 hover-col: "#8BB174" # olivine
 footer-col: "#B4436C" # rasberry rose 
 footer-text-col: "#212738" #raisin black
-footer-link-col: "#404040" caribbean current 
+footer-link-col: "#404040" #caribbean current 
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
