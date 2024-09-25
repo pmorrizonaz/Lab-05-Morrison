@@ -81,7 +81,7 @@ You'll see the word "repository" used a lot in GitHub - it simply means "project
 
 </div>
 
-<div class="gs-section-03" markdown="1"
+<div class="gs-section-03" markdown="1">
  
 ### 3. Customize your website settings
 
