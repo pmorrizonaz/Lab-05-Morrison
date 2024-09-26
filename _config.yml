@@ -17,7 +17,7 @@ description: This lab practices creating websites in Github.
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: I am a second semester student in the Program Evaluation and Data Analytics, MS program at ASU. 
+  About Me: "aboutme" 
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -76,7 +76,7 @@ social-network-links:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
